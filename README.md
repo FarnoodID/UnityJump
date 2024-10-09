@@ -36,6 +36,12 @@ The challenge reinforces several skills and concepts:
 
 6. **Mini-Game Integration**: The balloon mini-game was developed, where players collect tokens while avoiding bombs, incorporating various effects for interactions.
 
+## Getting Started
+
+### Prerequisites
+- Unity Hub installed with the 2018.4.24f1 version of Unity.
+- Basic understanding of C# programming.
+
 ### Installation
 1. Clone this repository:
    ```bash
